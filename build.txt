@@ -1,0 +1,2 @@
+# Daily Notes
+Update all authentication libraries to latest patch
